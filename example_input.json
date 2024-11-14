@@ -1,0 +1,4 @@
+{
+    "features": ["age", "bmi", "height", "weight", "ethnicity_Asian", "ethnicity_Caucasian", "ethnicity_Hispanic", "ethnicity_Native American", "ethnicity_Other/Unknown", "gender_M"],
+    "values": [34, 21, 175, 110, 0, 0, 0, 0, 1, 1]
+}
